@@ -41,13 +41,14 @@ A maior parte dos profissionais está localizada na região Sudeste, embora haja
 
 A quantidade de pessoas com deficiência representa uma pequena parcela da amostra, indicando uma oportunidade para ampliar ações de inclusão e acessibilidade no setor de tecnologia e dados.
 
-Perguntas de Negócio Respondidas
+Perguntas Respondidas
 Como está distribuída a diversidade de gênero na área de dados?
 Existe diferença salarial entre homens e mulheres?
 Como a escolaridade se relaciona com senioridade?
 Qual a distribuição racial dos participantes?
 Onde estão concentrados os profissionais de dados no Brasil?
 Como a diversidade impacta os diferentes níveis de carreira?
+
 Recomendações
 Fortalecer programas de inclusão para mulheres, pessoas negras e PcDs.
 Investir em formação e capacitação para regiões menos representadas.
